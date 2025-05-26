@@ -1,4 +1,5 @@
 ![HIPAA-Compliant Network](./hipaa-banner.png)
+
 # 🏥 HIPAA-Compliant Medical Office Network Redesign
 
 ## 📌 Project Overview
